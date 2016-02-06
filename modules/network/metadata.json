@@ -1,0 +1,22 @@
+{
+  "name": "ajjahn-network",
+  "version": "0.1.1",
+  "source": "https://github.com/ajjahn/puppet-network",
+  "author": "Adam Jahn",
+  "license": "Apache License, Version 2.0",
+  "summary": "Module for provisioning (Physical) Network Interfaces",
+  "description": "Module for provisioning (Physical) Network Interfaces",
+  "project_page": "https://github.com/ajjahn/puppet-network",
+  "dependencies": [
+
+  ],
+  "types": [
+
+  ],
+  "checksums": {
+    "Modulefile": "ec31ed9f5decae1ffa37f87f19e46ed8",
+    "README.md": "6a57e40e6848005ea58a901cbc2d9469",
+    "manifests/init.pp": "86f6cc4733095e2d91118c8b545a3cb4",
+    "manifests/interface.pp": "3f382ee689869db5e4334b71f4716852"
+  }
+}
